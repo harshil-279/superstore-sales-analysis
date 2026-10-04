@@ -53,7 +53,7 @@ The raw file had several quality problems that would have produced wrong results
 
 ## 🔑 Key Insights
 
-1. Total sales of **$2.06M** generated a profit of **$259.59K** (margin **12.59%**) across [ 4,7xx ] orders.
+1. Total sales of **$2.06M** generated a profit of **$259.59K** (margin **12.59%**) across 4,720 orders.
 2. **Supplies, Bookcases and Tables** are loss-making sub-categories.
 3. **Discounts are strongly linked to losses:**
    - No discount: **29.8%** margin
