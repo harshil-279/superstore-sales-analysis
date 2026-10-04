@@ -45,7 +45,7 @@ The raw file had several quality problems that would have produced wrong results
 - **Missing Category values (about 500):** recovered using the Sub-Category to Category mapping instead of dropping the rows.
 - **Missing Ship Mode values:** filled with `Unknown`.
 - **Duplicates:** removed duplicate rows, including ones that differed only in capitalisation.
-- **Missing Sales or Profit:** rows with missing or invalid Sales or Profit (about [ 10 ]% of the data) were excluded, because financial metrics cannot be calculated without them. Values were **not** estimated or invented.
+- **Missing or invalid Sales/Profit and duplicates:** in total, about 13.6% of rows (10,355 → 8,950) were removed. Financial metrics cannot be calculated without Sales and Profit, and values were **not** estimated or invented.
 
 **Final dataset:** 8950  rows used for analysis.
 
@@ -74,6 +74,7 @@ The raw file had several quality problems that would have produced wrong results
 4. **Prepare inventory and marketing for the November-December peak**, and avoid deep discounts when demand is already high.
 
 > **Note:** the data shows that high discounts and losses occur together. It does not prove that discounts alone cause the losses, so recommendation 3 should be tested before acting.
+
 
 ---
 
@@ -130,4 +131,4 @@ superstore-sales-analysis/
 ## 👤 Author
 
 **Harshil Rajpurohit**
-https://linkedin.com/in/harshil-rajpurohit- | harshilrajpurohit279@gmail.com
+[https://linkedin.com/in/harshil-rajpurohit-](https://www.linkedin.com/in/harshil-rajpurohit-/) | harshilrajpurohit279@gmail.com
