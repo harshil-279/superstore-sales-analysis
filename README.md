@@ -62,7 +62,7 @@ The raw file had several quality problems that would have produced wrong results
    - Above 40% discount: **-76%** margin
 4. The **Central** region has the lowest margin. The least profitable states are **Texas** (Central) and **Ohio** (East), followed by Pennsylvania and Illinois.
 5. Sales peak in **November and December** every year.
-6. Large sales do not always mean large profit: some of the highest-spending customers generate losses.
+
 
 ---
 
